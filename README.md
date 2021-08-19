@@ -7,5 +7,6 @@ Atualização 1.01:
 
 O que falta:
 - Responsivdade;
+- Recursos (.JS);
 - Novos links;
 - Ainda  não seikkkkj.
